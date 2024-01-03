@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  align-items: center;
+  justify-content: space-evenly;
+  margin-block: 50px;
+}
